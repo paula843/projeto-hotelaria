@@ -19,16 +19,7 @@ O objetivo deste projeto é aprimorar habilidades em **ciência de dados** enqua
 ## 📷 Prévia do Projeto
 
 
-```markdown
-![Descrição da imagem](![image](https://github.com/user-attachments/assets/58958fb1-d722-44ba-bf5f-4e67b999bf0c)
-)
-```
-
-Exemplo:
-```markdown
-![Exemplo de Cadastro de Cliente](![image](https://github.com/user-attachments/assets/df27db0b-ec0a-4c96-a47d-55551ca6e9e4)
-)
-```
+![Em funcionamento](https://github.com/user-attachments/assets/58958fb1-d722-44ba-bf5f-4e67b999bf0c)
 
 ---
 
